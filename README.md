@@ -79,8 +79,8 @@ npx commitlint --edit
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
-cd work-finder-app
+git clone https://github.com/chezee4/dsr.git
+cd dsr
 ```
 
 2. Install dependencies:
